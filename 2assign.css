@@ -1,0 +1,12 @@
+h1{
+    font-weight: bold;
+    text-align: center;
+    color: red;
+}
+h2{
+    font-weight: bold;
+    color: rgb(122, 41, 184);
+}
+body{
+    color: rgba(207, 175, 80, 0.885);
+}
